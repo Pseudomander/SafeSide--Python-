@@ -1,7 +1,6 @@
-
 Safeside Cipher 2.0 Alpha
 
-To run as is, simply execute the script. To incorperate into an existing project merely import SS and use
-"SafeSide().encrypt(key,string) in place of string.
+To run as is, simply execute the script 'SS_interface.py' or SSgui for a user-friendlier interface.. To incorporate into an existing project merely import SS and use
+"SafeSide().encrypt(key,string)" in place of "string".
 
 ##Authored by Troy Osborne (Pseudomander). This work may be Used, Distributed, Modified and cited by anyone for personal nonprofit uses. This work may be implemented for profit on the condition a link is provided sourcing myself and linking the user to the original code.
