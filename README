@@ -1,3 +1,6 @@
+
+Safeside Cipher 2.0 Alpha
+
 To run as is, simply execute the script. To incorperate into an existing project merely import SS and use
 "SafeSide().encrypt(key,string) in place of string.
 
